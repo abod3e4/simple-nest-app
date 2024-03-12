@@ -1,0 +1,6 @@
+{
+    "NOT_FOUND": "{name} not found.",
+    "UNAUTHORIZED": "Sorry, you can't access this route.",
+    "BLACKLIST": "You were banned for a {hours} hours because you made unauthorized appointments",
+    "FIXED_EMAIL_FIND": "You already have fixed template for email, you can update/remove it."
+}
